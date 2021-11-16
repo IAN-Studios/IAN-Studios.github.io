@@ -1,0 +1,9 @@
+
+:root {
+    --banner-color-primary: #4287f5bd;
+}
+.home-banner {
+    background-color:var(--banner-color-primary);
+    width:100%;
+    height:200px;
+}
