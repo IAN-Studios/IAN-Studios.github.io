@@ -6,6 +6,11 @@
     background-color:var(--banner-color-primary);
     width:100%;
     height:200px;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top:50px;
+    text-align: center;
+    text-decoration: underline;
 }
 .home-element-body {
     margin:0%;
@@ -13,19 +18,22 @@
     height:3000px;
 }
 .home-body {
-    transistion: top 10s;
+    transition: top 10s;
     height:3800px;
-    background-color:black
+    background-color:black;
+    margin:0px;
 }
 .home-title-text {
-    padding:100px;
-    font-family: monospace;
+    font-family: system-ui;
     font-size:100px;
     color:white;
 }
 .joke-gaytext {
     color:red;
     font-weight:bold;
+}
+.home-desc {
+  font-family: system-ui;
 }
 
 /*Custom IAN Studios™ Scroll Bar*/
