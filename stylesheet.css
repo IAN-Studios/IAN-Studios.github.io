@@ -23,7 +23,7 @@
 .home-title-text {
     font-family: system-ui;
     font-size:60px;
-    color: var(--text-default);
+    color: var(--brightquartz);
     padding-left:10%;
     padding-right:10%;
     padding-top:50px;
@@ -36,6 +36,7 @@
 }
 .home-desc {
   font-family: system-ui;
+  color: var(--text-default)
 }
 
 /*Custom IAN Studios™ Scroll Bar*/
