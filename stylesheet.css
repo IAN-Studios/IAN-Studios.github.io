@@ -7,13 +7,19 @@
     width:100%;
     height:200px;
 }
-.home-body {
+.home-element-body {
     margin:0%;
     width:100%;
     height:3000px;
 }
+.home-body {
+    transistion: top 10s;
+    height:3800px;
+    background-color:black
+}
 .home-title-text {
     padding:100px;
     font-family: monospace;
+    font-size:100px;
     color:white;
 }
