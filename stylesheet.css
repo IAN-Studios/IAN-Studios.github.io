@@ -1,6 +1,8 @@
 
 :root {
     --banner-color-primary: #4287f5bd;
+    --brightquartz: rgb(236, 236, 236);
+    --text-default: black;
 }
 .home-banner {
     background-color:var(--banner-color-primary);
@@ -15,13 +17,13 @@
 .home-body {
     transition: top 10s;
     height:3800px;
-    background-color:black;
+    background-color: var(--brightquartz);
     margin:0px;
 }
 .home-title-text {
     font-family: system-ui;
     font-size:60px;
-    color:white;
+    color: var(--text-default);
     padding-left:10%;
     padding-right:10%;
     padding-top:50px;
