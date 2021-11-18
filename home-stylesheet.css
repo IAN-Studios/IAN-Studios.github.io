@@ -50,6 +50,16 @@
   align-items: center;
   text-align: center;
 }
+.nav-sel-cust select {
+  margin:15px;
+  position:fixed;
+}
+/*Navigation Style Settigs*/
+select.about {
+}
+select.projects {
+
+}
 
 /*Custom IAN Studios™ Scroll Bar*/
 
