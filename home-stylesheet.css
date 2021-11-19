@@ -55,10 +55,14 @@
   position:fixed;
 }
 /*Navigation Style Settigs*/
-select.about {
+.sel-about {
+  left:150px;
 }
-select.projects {
-
+.sel-projects {
+  left:350px;
+}
+.sel-more {
+  left: 550px;
 }
 
 /*Custom IAN Studios™ Scroll Bar*/
