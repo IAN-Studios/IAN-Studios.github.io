@@ -12,12 +12,14 @@
 }
 .home-element-body {
     margin:0%;
+    overflow:hidden;
 }
 .home-body {
     transition: top 10s;
     height:3800px;
     background-color: var(--brightquartz);
     margin:0px;
+    overflow:hidden;
 }
 .home-title-text {
     font-family: system-ui;
