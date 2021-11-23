@@ -1,4 +1,4 @@
-
+/* Default Light Mode Global Stylesheet */
 :root {
     --banner-color-primary: #4287f5bd;
     --brightquartz: rgb(236, 236, 236);
@@ -152,3 +152,18 @@
 .select-items div:hover, .same-as-selected {
   background-color: rgba(0, 0, 0, 0.1);
 } 
+
+
+/* Navigation Selction Box CSS */
+.nav-sel {
+    background-color:red;
+}
+.nav-sel-top {
+    background-color:white;
+}
+.nav-sel-opt {
+    background-color:yellow;
+}
+.nav-sel-top:hover {
+    background-color:orange
+}
