@@ -162,8 +162,8 @@
     background-color:white;
 }
 .nav-sel-opt {
-    background-color:yellow;
+    background-color:white;
 }
-.nav-sel-top:hover {
-    background-color:orange
+.nav-sel-opt:hover {
+    background-color:orange;
 }
