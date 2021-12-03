@@ -1,3 +1,16 @@
-.security-louk-img {
-  position:absolute
-}
+    img.security-louk-img {
+        position:absolute;
+        left:45%;
+        top:25%;
+    }
+    .security-login-box {
+        background-color:yellow;
+        height:100px;
+        border: 1px solid black;
+        border-radius:10px;
+        width:50%;
+        position:absolute;
+        left:25%;
+        top:50%;
+        
+    }
