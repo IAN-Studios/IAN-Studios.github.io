@@ -14,3 +14,8 @@
         top:50%;
         
     }
+.security-align-center {
+    postion:absolute;
+    left:50%;
+    top:50%;
+}
