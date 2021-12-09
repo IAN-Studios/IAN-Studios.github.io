@@ -1,11 +1,11 @@
-DOCUMENTS school-security.txt
+DOCUMENTS school-security-PREVIEW.txt
 @Security-level=high
 @!hidden=true
 //
 
 # FLAWS in the SYSTEM presents:
 # Jefferson County: Probably not Secure (JCPS)
-## By Griffin D. Siebert and Joshua M. Mattingly
+## By Griffin D. Siebert
 
 !==
 
