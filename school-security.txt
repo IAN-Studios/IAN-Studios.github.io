@@ -1,0 +1,39 @@
+DOCUMENTS school-security.txt
+@Security-level=high
+@!hidden=true
+//
+
+# FLAWS in the SYSTEM presents:
+# Jefferson County: Probably not Secure (JCPS)
+## By Griffin D. Siebert and Joshua M. Mattingly
+
+!==
+
+# Table of Contents
+
+## Pre: Introduction to security and Legal Information
+## Chapter 1: Safety and the frontends
+## Chapter 2: The backends
+## Chapter 3: The deep backends
+## Chapter 4: A new look at things
+## Chapter 5: The good ending
+
+!==
+
+# Pre: An Introduction to Security and Legal Information
+
+Note: This document/website/domin/thing is perfectly legal, and 
+all that we have done is taken a bigger look at a small problem.
+We have looked over the SSBIH* and the JCPS Acceptable Use Policy**
+and have found that we have not broken any rules. We have not 
+broken into any systems, we have not caused any damage whatsoever.
+You may consult me (Griffin D. Siebert) at any time by emailing me
+at [eml=griffin.siebert@stu.jefferson.kyschools.us].
+
+*Big waste of time
+**Bigger waste of time
+
+!==
+
+# Chapter one: Safety and the frontends
+//
